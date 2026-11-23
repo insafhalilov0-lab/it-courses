@@ -16,5 +16,5 @@
 
 ## Как посмотреть
 - [Открыть живой сайт](https://insafhalilov0-lab.github.io/it-courses/)
-- [Посмотреть код (HTML)](https://github.com/insafhalilov0-lab/it-courses/blob/main/it-curs.html)
-- [Посмотреть код (CSS)](https://github.com/insafhalilov0-lab/it-courses/blob/main/it-curs.css)
+- [Посмотреть код (HTML)](https://github.com/insafhalilov0-lab/it-courses/blob/main/index.html)
+- [Посмотреть код (CSS)](https://github.com/insafhalilov0-lab/it-courses/blob/main/style.css)
