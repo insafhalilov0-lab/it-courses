@@ -231,3 +231,20 @@ footer {
     padding: 35px;
     font-size: 0.9em;
 }
+
+@media (max-width: 768px) {
+    .nav-bar {
+        flex-direction: column;
+        gap: 15px;
+    }
+    .main-hero {
+        flex-direction: column;
+        text-align: center;
+    }
+    .hero-text {
+        width: 100%;
+    }
+    .action-form {
+        width: 100%;
+    }
+}
